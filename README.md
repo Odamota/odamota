@@ -1,0 +1,2 @@
+# odamota
+First Git Repo
